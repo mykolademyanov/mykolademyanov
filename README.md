@@ -97,20 +97,8 @@ for real-world AI agent systems.
 
 | Repo | Description |
 |------|-------------|
-| [`mykolademyanov`](https://github.com/mykolademyanov/mykolademyanov) | GitHub profile repository |
 | [`onceonly-python`](https://github.com/OnceOnly-Tech/onceonly-python) | Python SDK for OnceOnly runtime governance |
 | [`agentpatterns`](https://github.com/AgentPatterns-tech/agentpatterns) | Source for agentpatterns.tech |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mykolademyanov&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=6EE7B7&title_color=6EE7B7&text_color=c9d1d9&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykolademyanov&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=6EE7B7&text_color=c9d1d9&hide_border=false" />
-
-</div>
 
 ---
 
