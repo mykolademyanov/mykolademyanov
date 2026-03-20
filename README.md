@@ -16,11 +16,11 @@
 ```
 $ whoami
 
-  Mykola — backend engineer turned AI infrastructure founder.
+  Nick — backend engineer turned founder building infrastructure for reliable AI agents.
 
   10+ years building backend systems and distributed services.
 
-  Now focused on making AI agents reliable in production.
+  Focused on runtime control, safety, and production reliability for AI agents.
 ```
 
 ---
