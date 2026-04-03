@@ -98,7 +98,8 @@ for real-world AI agent systems.
 | Repo | Description |
 |------|-------------|
 | [`onceonly-python`](https://github.com/OnceOnly-Tech/onceonly-python) | Python SDK for OnceOnly runtime governance |
-| [`agentpatterns`](https://github.com/AgentPatterns-tech/agentpatterns) | Source for agentpatterns.tech |
+| [`onceonly-typescript`](https://github.com/OnceOnly-Tech/onceonly-typescript) | TypeScript SDK for OnceOnly runtime governance |
+| [`agentpatterns`](https://github.com/AgentPatterns-tech/agentpatterns) | Examples for agentpatterns.tech |
 
 ---
 
